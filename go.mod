@@ -1,4 +1,4 @@
-module go-sso-protos
+module github.com/moboqe/go-sso-protos
 
 go 1.23.1
 
